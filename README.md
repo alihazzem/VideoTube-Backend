@@ -121,6 +121,9 @@ Key endpoints include:
 
 For detailed API documentation, see the [API Docs](https://documenter.getpostman.com/view/47128147/2sB3BDHqeN).
 
+> ⚠️ Note: Dashboard API routes are implemented, but the frontend dashboard is not yet built.
+
+
 ---
 
 ## Folder Structure
