@@ -4,7 +4,7 @@ import {
     deleteComment,
     getVideoComments,
     updateComment,
-} from "../controllers/commentControllers.controllers.js"
+} from "../controllers/commentController.controllers.js"
 import { verifyJWT } from "../middlewares/auth.middlewares.js"
 import { addCommentValidator, updateCommentValidator, validateCommentId, validateVideoId } from '../validators/commentValidator.validators.js';
 import { validateRequest } from "../middlewares/validateRequest.middlewares.js";

@@ -7,7 +7,7 @@ import {
     getUserPlaylists,
     removeVideoFromPlaylist,
     updatePlaylist,
-} from "../controllers/playlistController.controls.js"
+} from "../controllers/playlistController.controllers.js"
 import { verifyJWT } from "../middlewares/auth.middlewares.js"
 import { validatePlaylistId, validateVideoId, validateUserId, validateCreatePlaylist, validateUpdatePlaylist } from '../validators/playlistValidator.validators.js';
 import { validateRequest } from '../middlewares/validateRequest.middlewares.js';
