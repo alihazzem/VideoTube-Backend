@@ -103,21 +103,21 @@ Make sure you have the following installed and set up on your machine:
 
 Key endpoints include:
 
-**/api/users** — User registration, login, profile management, avatar upload
+**/api/v1/users** — User registration, login, profile management, avatar upload
 
-**/api/videos** — Upload, update, delete, and fetch videos
+**/api/v1/videos** — Upload, update, delete, and fetch videos
 
-**/api/tweets** — Create, update, delete, and fetch tweets
+**/api/v1/tweets** — Create, update, delete, and fetch tweets
 
-**/api/likes** — Toggle likes on videos and tweets
+**/api/v1/likes** — Toggle likes on videos and tweets
 
-**/api/playlists** — Create, update, and manage playlists
+**/api/v1/playlists** — Create, update, and manage playlists
 
-**/api/subscriptions** — Subscribe to and unsubscribe from channels
+**/api/v1/subscriptions** — Subscribe to and unsubscribe from channels
 
-**/api/comments** — Add, update, and delete comments on videos
+**/api/v1/comments** — Add, update, and delete comments on videos
 
-**/api/dashboard** — Retrieve channel stats and video analytics
+**/api/v1/dashboard** — Retrieve channel stats and video analytics
 
 For detailed API documentation, see the [API Docs](https://documenter.getpostman.com/view/47128147/2sB3BDHqeN).
 
