@@ -87,9 +87,9 @@ Make sure you have the following installed and set up on your machine:
 2. **Open .env and replace the placeholder values with your own**
 
     MongoDB connection URL
-    JWT secret keys
-    Cloudinary credentials
-    Rate limiting settings
+    ,JWT secret keys
+    ,Cloudinary credentials
+    ,Rate limiting settings
 
 3. **Running the Server**
 
