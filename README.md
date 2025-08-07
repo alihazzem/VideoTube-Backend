@@ -135,7 +135,6 @@ For detailed API documentation, see the [API Docs](https://documenter.getpostman
     /routes                 # Express route definitions
     /validators             # Request validation schemas
     /utils                  # Utility functions and helpers
-    /config                 # Configuration and environment setup
 
 ---
 
